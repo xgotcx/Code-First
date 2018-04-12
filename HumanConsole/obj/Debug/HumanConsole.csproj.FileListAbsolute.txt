@@ -1,0 +1,17 @@
+D:\Home Treaning\Database\NewHuman\HumanConsole\bin\Debug\HumanConsole.exe.config
+D:\Home Treaning\Database\NewHuman\HumanConsole\bin\Debug\HumanConsole.exe
+D:\Home Treaning\Database\NewHuman\HumanConsole\bin\Debug\HumanConsole.pdb
+D:\Home Treaning\Database\NewHuman\HumanConsole\bin\Debug\EntityFramework.dll
+D:\Home Treaning\Database\NewHuman\HumanConsole\bin\Debug\EntityFramework.SqlServer.dll
+D:\Home Treaning\Database\NewHuman\HumanConsole\bin\Debug\HumanStructure.dll
+D:\Home Treaning\Database\NewHuman\HumanConsole\bin\Debug\NewHuman.dll
+D:\Home Treaning\Database\NewHuman\HumanConsole\bin\Debug\HumanStructure.pdb
+D:\Home Treaning\Database\NewHuman\HumanConsole\bin\Debug\NewHuman.pdb
+D:\Home Treaning\Database\NewHuman\HumanConsole\bin\Debug\NewHuman.dll.config
+D:\Home Treaning\Database\NewHuman\HumanConsole\bin\Debug\EntityFramework.xml
+D:\Home Treaning\Database\NewHuman\HumanConsole\bin\Debug\EntityFramework.SqlServer.xml
+D:\Home Treaning\Database\NewHuman\HumanConsole\obj\Debug\HumanConsole.csprojResolveAssemblyReference.cache
+D:\Home Treaning\Database\NewHuman\HumanConsole\obj\Debug\HumanConsole.csproj.CoreCompileInputs.cache
+D:\Home Treaning\Database\NewHuman\HumanConsole\obj\Debug\HumanConsole.csproj.CopyComplete
+D:\Home Treaning\Database\NewHuman\HumanConsole\obj\Debug\HumanConsole.exe
+D:\Home Treaning\Database\NewHuman\HumanConsole\obj\Debug\HumanConsole.pdb

@@ -1,0 +1,5 @@
+D:\Home Treaning\Database\NewHuman\HumanStructure\bin\Debug\HumanStructure.dll
+D:\Home Treaning\Database\NewHuman\HumanStructure\bin\Debug\HumanStructure.pdb
+D:\Home Treaning\Database\NewHuman\HumanStructure\obj\Debug\HumanStructure.csproj.CoreCompileInputs.cache
+D:\Home Treaning\Database\NewHuman\HumanStructure\obj\Debug\HumanStructure.dll
+D:\Home Treaning\Database\NewHuman\HumanStructure\obj\Debug\HumanStructure.pdb

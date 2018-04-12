@@ -1,0 +1,14 @@
+D:\Home Treaning\Database\NewHuman\NewHuman\bin\Debug\NewHuman.dll.config
+D:\Home Treaning\Database\NewHuman\NewHuman\bin\Debug\NewHuman.dll
+D:\Home Treaning\Database\NewHuman\NewHuman\bin\Debug\NewHuman.pdb
+D:\Home Treaning\Database\NewHuman\NewHuman\bin\Debug\EntityFramework.dll
+D:\Home Treaning\Database\NewHuman\NewHuman\bin\Debug\EntityFramework.SqlServer.dll
+D:\Home Treaning\Database\NewHuman\NewHuman\bin\Debug\HumanStructure.dll
+D:\Home Treaning\Database\NewHuman\NewHuman\bin\Debug\HumanStructure.pdb
+D:\Home Treaning\Database\NewHuman\NewHuman\bin\Debug\EntityFramework.xml
+D:\Home Treaning\Database\NewHuman\NewHuman\bin\Debug\EntityFramework.SqlServer.xml
+D:\Home Treaning\Database\NewHuman\NewHuman\obj\Debug\NewHuman.csprojResolveAssemblyReference.cache
+D:\Home Treaning\Database\NewHuman\NewHuman\obj\Debug\NewHuman.csproj.CoreCompileInputs.cache
+D:\Home Treaning\Database\NewHuman\NewHuman\obj\Debug\NewHuman.csproj.CopyComplete
+D:\Home Treaning\Database\NewHuman\NewHuman\obj\Debug\NewHuman.dll
+D:\Home Treaning\Database\NewHuman\NewHuman\obj\Debug\NewHuman.pdb
